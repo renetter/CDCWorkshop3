@@ -2,5 +2,9 @@ Please add anything below:
 =================================================
 Rendi-First Commit
 Rendi-Second Commit
+<<<<<<< HEAD
 Abidah Make Changes
 Teten-Third Commit
+=======
+Teten-Third Commit
+>>>>>>> e9ba71e1f0eb53755e8ab5756cc7137a96a8ef32
